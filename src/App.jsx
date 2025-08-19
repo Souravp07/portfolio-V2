@@ -517,8 +517,8 @@ const App = () => {
         title: "Portfolio Website",
         description: "Personal portfolio website showcasing projects, skills, and professional experience.",
         tags: ["React", "CSS", "JavaScript", "Responsive Design"],
-        liveUrl: "#",
-        githubUrl: "#",
+        liveUrl: "https://souravp07.github.io/portfolio-V2/",
+        githubUrl: "https://github.com/Souravp07/portfolio-V2",
       },
     ],
     publications: [
