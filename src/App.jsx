@@ -534,12 +534,11 @@ const App = () => {
       },
     ],
     certifications: [
-      {
-        title: "Certified Course In Object Oriented Programming Using C++",
-        issuer: "NIIT, Kumardubhi, Dhanbad",
-        date: "2020-2021",
-      },
-      { title: "Smart India Hackathon - Participation Certificate", issuer: "Government of India", date: "2024" },
+      { title: "Data Analytics using AI-LLMS", issuer: "AICTE VOIS Internship", date: "2024" },
+            { title: "Google AI-ML Virtual Internship", issuer: "AICTE Eduskill", date: "2024" },
+            { title: "The Web Developer Bootcamp", issuer: "Colt Steele (Udemy)" },
+            { title: "OOP Using C++", issuer: "NIIT, Dhanbad", date: "2021" },
+            { title: "Smart India Hackathon", issuer: "Participation Certificate" }
     ],
   }
 
