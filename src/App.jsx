@@ -425,7 +425,7 @@ const App = () => {
     title: "Electronics & Communication Engineer | Full-Stack Developer",
     email: "souravpandey9031@gmail.com",
     phone: "(+91)9631961778",
-    cvLink: "https://drive.google.com/file/d/1Mq0qDA8RNimMU2amEzRzuAF2gC9e78xw/view?usp=sharing",
+    cvLink: "https://drive.google.com/file/d/1ZfLQOyY6LOQ231YqbOMcjyugmFE0_MkT/view?usp=sharing",
     socials: {
       linkedin: "https://www.linkedin.com/in/sourav-p07/",
       github: "https://github.com/Souravp07",
